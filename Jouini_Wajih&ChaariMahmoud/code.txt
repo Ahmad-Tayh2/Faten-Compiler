@@ -1,0 +1,11 @@
+package comp class test { 
+    while ( x )
+    {
+       
+          int i ;
+    tab t [ int ] ;
+    string ch ;
+ print ( x ) ;  
+  if ( ( i ) et ( x ) ) { print ( x ) ; } }
+    }
+ } 
